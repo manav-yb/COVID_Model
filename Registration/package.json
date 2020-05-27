@@ -1,0 +1,14 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "For using the above files, you need set up them under the npm package and install the ibm_db package and the installation of proper drivers should be there",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarthak",
+  "license": "ISC",
+  "dependencies": {
+    "ibm_db": "^2.6.4"
+  }
+}

@@ -1,0 +1,1 @@
+For using the above files, you need set up them under the npm package and install the ibm_db package and the installation of proper drivers should be there

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width" initial-scale="1.0">
+    <style>
+        body {font-family:Comic Sans Ms}
+        input[type=text], input[type=number]
+        {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button 
+        {
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: auto;
+            border-radius:8px;
+        }
+        .image
+        {
+            width:50%;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div class='image'>
+        <img src="pointer.png" alt="pointer">
+    </div>
+</body>
+</html>
