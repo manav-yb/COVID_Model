@@ -1,0 +1,18 @@
+{
+  "name": "db2",
+  "version": "1.0.0",
+  "description": "Practicing db2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "hbs": "^4.1.1",
+    "ibm_db": "^2.6.4",
+    "node-fetch": "^2.6.0"
+  }
+}
