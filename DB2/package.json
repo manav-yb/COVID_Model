@@ -9,7 +9,7 @@
   "author": "Manav Kumar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "hbs": "^4.1.1",
     "ibm_db": "^2.6.4",
